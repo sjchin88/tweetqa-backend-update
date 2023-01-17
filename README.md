@@ -18,7 +18,7 @@
   <p align="center">
     An upcoming, refactoring of the senior design group project individually. 
     <br />
-    <a href=""><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/sjchin88/tweetqa-backend-update/blob/master/SWENG481_T23_Report5.0.pdf"><strong>Explore the docs »</strong></a>
     <br />
     <a href="https://github.com/sweng480-team23"><strong>Checkout the original repository »</strong></a>
     <br />
@@ -68,7 +68,8 @@
 The original project consisted of two main parts, 
 <br/>The back-end was developed using python (flask and SQL alchemy package), deployed on google cloud service platform. 
 <br/>The front-end was developed using angular. 
-
+<br/> You can checkout the final report for the original project
+<a href="https://github.com/sjchin88/tweetqa-backend-update/blob/master/SWENG481_T23_Report5.0.pdf"><strong>here</strong></a>
 <br/>The plan is to refactor the project, mainly to 
 <ul>
    <li> use MongoDB as free database </li>
