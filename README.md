@@ -70,12 +70,6 @@ The original project consisted of two main parts,
 <br/>The front-end was developed using angular. 
 <br/> You can checkout the final report for the original project
 <a href="https://github.com/sjchin88/tweetqa-backend-update/blob/master/SWENG481_T23_Report5.0.pdf"><strong>here</strong></a>
-<br/>The plan is to refactor the project, mainly to 
-<ul>
-   <li> use MongoDB as free database </li>
-   <li> create a version for hosting and testing locally </li>
-   <li> host the front-end and back-end in AWS </li>
-</ul>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
